@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SushiRocks
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning for an internship
+- 🌱 I’m currently growing my skills for a new career
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 You can reach me at a.beaversouris@gmail.com
 
