@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SushiRocks
-- 👀 I’m interested in web development 
+- 👋 Hi, I’m @SushiRocks / Angel Beaversouris
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently growing my skills for a new career
 - 💞️ I’m looking to collaborate on front end development projects
 - 📫 You can reach me at a.beaversouris@gmail.com
